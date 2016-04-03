@@ -7,7 +7,7 @@
 	 	ejs
 	 	SASS
 ## Design
-![Design Version](/img/design-version.png)
+![Design Version](/img/design-version.jpg)
 ## Development
 ![First Draft](/img/first-draft.png)
 
