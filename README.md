@@ -1,13 +1,11 @@
-# Coded version of "Daily UI #022 - Search" from [@itsracine](https://twitter.com/itsracine)
-**Check it out here: [Daily UI #022 - Search](https://dribbble.com/shots/2493391-022-Search)**
+# Coded version of "Daily UI #079 - Itinerary" from [@itsracine](https://twitter.com/itsracine)
+**Check it out here: [Daily UI #079 - Itinerary](https://dribbble.com/shots/2615542-079-Itinerary)**
 ## Information	
 	 Development Time: ~ 2 Hours
 	 Foundation 6
-	 jQuery
 	 HarpJS
 	 	ejs
 	 	SASS
-	ListJS
 ## Design
 ![Design Version](/img/design-version.png)
 ## Development
